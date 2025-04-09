@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+Welcome to **BIQ**, a Proof of Presence protocol and app built for the real world.
+We make it seamless (and fun) to verify that “you were there”—no GPS, no QR codes, no friction.
+Just BLE, trust, and a little magic.
 <!--
 
 **Here are some ideas to get you started:**
