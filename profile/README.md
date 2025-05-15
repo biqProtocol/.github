@@ -1,15 +1,16 @@
 ## Hi there 👋
 
-Welcome to **BIQ**, a Proof of Presence protocol and app built for the real world.
+Welcome to **biqProtocol**, a Proof of Presence protocol and app built for the real world.
 We make it seamless (and fun) to verify that “you were there”—no GPS, no QR codes, no friction.
 Just BLE, trust, and a little magic.
-<!--
 
-**Here are some ideas to get you started:**
+## Structure of repositories
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**[biq-app](https://github.com/biqProtocol/biq-app)** - Mobile demo app.  
+MVP implementation of biqProtocol using 3rd party libraries in a consumer mobile app. Will serve as a base for developing the future mobile SDK.
+
+**[biq-beacon](https://github.com/biqProtocol/biq-beacon)** - Hardware beacon implementation for NRF52 series SOCs.
+
+**[biq-backend](https://github.com/biqProtocol/biq-backend)** - Basic backend app for visual representation of presence data.
+
+**[biq-website](https://github.com/biqProtocol/biq-website)** - Presentation website for [www.biq.me](https://www.biq.me)
